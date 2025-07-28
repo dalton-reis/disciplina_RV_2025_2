@@ -36,17 +36,13 @@ Meta: Horizon Workrooms
 Apple Vision Pro: [Vision](https://developer.apple.com/documentation/visionos)  
 -->
 
-## Matutino
+## [AVA3 mat]
 
-### [AVA3 mat]
+## [Plano de Ensino mat]  
 
-### [Plano de Ensino mat]  
+## [AVA3 not]
 
-## Noturno
-
-### [AVA3 not]
-
-### [Plano de Ensino not]  
+## [Plano de Ensino not]  
 
 ## [Cronograma]  
 
