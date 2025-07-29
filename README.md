@@ -52,4 +52,4 @@ Apple Vision Pro: [Vision](https://developer.apple.com/documentation/visionos)
 
 <!-- ## Visão Geral
 
-![Visão Geral](visaoGeral.drawio.svg)   -->
+![Visão Geral](./visaoGeral.drawio.svg)   -->
